@@ -1,7 +1,11 @@
 University of Science and Technology Houari Boumediene 
+
 Faculty of computer science 
+
 Algorithmics and Data Structures (S2) INGENIEUR.INFO: 2023/2024
+
 TD N° 1: Subroutine (In class) 
+
 Exercise 1: 
 Write the Subroutine (procedure or function) to resolve the following problems: 
 1- Calculation of the factorial of N (N ! = 1x2x3x...xN, with 0 !=1). 
