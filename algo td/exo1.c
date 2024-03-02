@@ -117,3 +117,5 @@ int main(){
 
    return 0;
 }
+
+//done without the optional qst
